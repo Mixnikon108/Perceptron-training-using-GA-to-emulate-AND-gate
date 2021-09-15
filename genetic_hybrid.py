@@ -13,8 +13,6 @@ import numpy as np
 import random
 
 
-
-
 def activation_function(arg):
 	# Discrete activation function
 	return 1 if arg > 0 else 0
